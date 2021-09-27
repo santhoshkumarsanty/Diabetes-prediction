@@ -6,7 +6,6 @@ idna
 itsdangerous
 Jinja2
 joblib
-
 MarkupSafe
 numpy
 requests
